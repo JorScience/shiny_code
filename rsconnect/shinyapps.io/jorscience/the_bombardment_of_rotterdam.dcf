@@ -1,0 +1,12 @@
+name: the_bombardment_of_rotterdam
+title: The Bombardment of Rotterdam
+username:
+account: jorscience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 245096
+bundleId: 1118900
+url: https://jorscience.shinyapps.io/the_bombardment_of_rotterdam/
+when: 1512571824.98234
+asMultiple: FALSE
+asStatic: FALSE
